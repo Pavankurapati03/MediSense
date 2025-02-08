@@ -81,7 +81,7 @@ MediSense/
 │-- text_to_speech.py     # Text-to-speech conversion module
 │-- translation.py        # Language translation module
 │-- requirements.txt      # Dependencies list
-│-- .env                  # API keys (not included in repo)
+│-- .env                  # API keys
 │-- README.md             # Documentation
 ```
 
@@ -104,7 +104,7 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact
 
-For any queries or collaborations, reach out at **your.email@example.com** or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
+For any queries or collaborations, reach out at **pavankurapati0105@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/pavankumar-kurapati/).
 
 ---
 
